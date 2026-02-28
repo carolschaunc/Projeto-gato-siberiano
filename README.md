@@ -1,19 +1,19 @@
-# Projeto Gato Siberiano
-## Descrição: 
+#  🐱 Projeto Gato Siberiano
+## 📌 Descrição: 
 Página web desenvolvida com HTML5 e CSS3 apresentando informações sobre a raça de gato Siberiano.
 
-## Objetivo: 
+## 🎯 Objetivo: 
 Praticar estruturação de páginas com HTML
 Aplicar estilização com CSS
 Desenvolver layout web básico
 
-## Tecnologias: 
+## 🚀 Tecnologias: 
 HTML5
 CSS3
 
-## Site:
+## 🌐 Site:
 https://carolschaunc.github.io/Projeto-gato-siberiano/
 
-## Autora:
+## 👩‍💻 Autora:
 Carolina Schaun Chaves
 Estudante de Análise e Desenvolvimento de Sistemas
