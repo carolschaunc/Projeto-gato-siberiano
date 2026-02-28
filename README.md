@@ -11,9 +11,6 @@ Desenvolver layout web básico
 HTML5
 CSS3
 
-![Preview](preview.png)
-
-
 ## Site:
 https://carolschaunc.github.io/Projeto-gato-siberiano/
 
