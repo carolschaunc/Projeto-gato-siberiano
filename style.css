@@ -4,8 +4,8 @@
 --cor1:#140a009d;
 --cor2:#ffffff;
 --cor3: #2e231b;
---cor4: #fac597;
---cor5: #00000069;
+--cor4: #c79162;
+--cor5: #00000036;
 --fontepadrão: Arial, Helvetica, sans-serif;
 --fontetitulo: Faculty Glyphic, sans-serif;
 }
@@ -78,7 +78,7 @@ main p{
 main a{
   text-decoration: none;
   font-weight: bold;
-  color: var(--cor5);
+  color: black;
   padding: 2px 4px;
 }
 
@@ -98,14 +98,14 @@ h2{
 h3{font-family: var(--fontetitulo);
         font-weight: 400;
         font-style: normal;
-        color:var(--cor5);
+        color:rgb(0, 0, 0);
         font-size: 1.4em;
 }
 
 h4{font-family: var(--fontetitulo);
         font-weight: 400;
         font-style: normal;
-        color:var(--cor5);
+        color:rgb(88, 52, 17);
         font-size: 1.4em;
 }
 ul{
